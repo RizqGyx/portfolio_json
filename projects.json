@@ -1,6 +1,7 @@
 [
   {
     "Project_Name": "Mixue Website",
+    "Image_Url": "https://ik.imagekit.io/tqc2kmfpu/Mixue.png?updatedAt=1740098621747",
     "Description": "Developed a web-based online store application using HTML, CSS, and JavaScript, aimed at facilitating customers in accessing comprehensive information about Mixue. The application provided an intuitive interface for users to explore and gather details about Mixue's products and services.",
     "Tech_Stack": ["HTML", "CSS", "Javascript", "Vercel"],
     "Link_Github": "https://github.com/RizqGyx/Mixue-Clone",
@@ -8,6 +9,7 @@
   },
   {
     "Project_Name": "React Portfolio",
+    "Image_Url": "https://ik.imagekit.io/tqc2kmfpu/Portfolio.png?updatedAt=1740098408414",
     "Description": "This portfolio project is an interactive website built using cutting-edge technologies, including React.js, Tailwind CSS, and React Motion. With an elegant design touch, the project allows users to easily explore an individual's portfolio.",
     "Tech_Stack": ["React.js", "Tailwind", "Vercel"],
     "Link_Github": "https://github.com/RizqGyx/React-Porto",
@@ -15,6 +17,7 @@
   },
   {
     "Project_Name": "Western Corner",
+    "Image_Url": "https://ik.imagekit.io/tqc2kmfpu/WesternCorner.png?updatedAt=1740098802575",
     "Description": "Creating a web-based online store application aimed at assisting store customers in accessing information about a Western Store. The application will be built using React.js (React-dom) and Tailwind CSS (leveraging Daisy UI as the Framework), with data stored from a JSON file.",
     "Tech_Stack": ["React.js", "Tailwind", "Daisy UI", "Vercel"],
     "Link_Github": "https://github.com/RizqGyx/Restaurant-react",
@@ -22,6 +25,7 @@
   },
   {
     "Project_Name": "Detikcom Test",
+    "Image_Url": "https://ik.imagekit.io/tqc2kmfpu/Detikcom.png?updatedAt=1740098272964",
     "Description": "Developed a responsive, modern, and engaging landing page as part of an internship test at Detikcom, utilizing HTML, CSS, and JavaScript exclusively. The result was a visually appealing and user-friendly landing page designed to captivate and engage visitors effectively.",
     "Tech_Stack": ["HTML", "CSS", "Javascript", "Vercel"],
     "Link_Github": "https://github.com/RizqGyx/Detikcom_FrontendDesignAssignment_MuhammadRizki",
@@ -29,6 +33,7 @@
   },
   {
     "Project_Name": "Simple Bookshelf",
+    "Image_Url": "https://ik.imagekit.io/tqc2kmfpu/Bookshelf.png?updatedAt=1740098921288",
     "Description": "A web application developed using HTML, Tailwind CSS(Daisy UI as Framework), and JavaScript. It offers users the capability to maintain a book list, along with the functionality to mark books as 'read' or 'unread.' Additionally, users can dynamically add new book data to the bookshelf, enabling them to organize their reading progress.",
     "Tech_Stack": ["HTML", "Tailwind", "Daisy UI", "Javascript", "Vercel"],
     "Link_Github": "https://github.com/RizqGyx/Bookshelf",
@@ -36,6 +41,7 @@
   },
   {
     "Project_Name": "Simple React Note",
+    "Image_Url": "https://ik.imagekit.io/tqc2kmfpu/ReactNote.png?updatedAt=1740098901372",
     "Description": "A React-based web application utilizing Tailwind CSS (Daisy UI Framework) for styling. It incorporates a dummy data storage system from a JSON file, presenting this data as the default view upon initialization. Users have the ability to add new notes dynamically. Additionally, they can mark these notes as 'done' or 'undone'.",
     "Tech_Stack": ["React.js", "Tailwind", "Daisy UI", "Vercel"],
     "Link_Github": "https://github.com/RizqGyx/note-app-react",
@@ -43,6 +49,7 @@
   },
   {
     "Project_Name": "Flutter To-Do",
+    "Image_Url": "https://ik.imagekit.io/tqc2kmfpu/TodoFlutter.jpg?updatedAt=1740099137663",
     "Description": "This Todo project is a mobile application developed using Flutter, a cross-platform app development framework. The application is designed to assist users in managing their task lists easily. Users can add, edit, and delete tasks, as well as mark tasks as completed. With a simple and efficient user interface, this application helps users stay organized in their daily lives.",
     "Tech_Stack": ["Flutter"],
     "Link_Github": "https://github.com/RizqGyx/Flutter-Todo",
